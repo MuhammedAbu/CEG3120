@@ -15,6 +15,10 @@
 
 ## Project Overview
 
+Continuous Integration Diagram:
+![image](https://github.com/pattonsgirl/CEG3120/assets/112053604/2566db88-8a32-45af-8e5c-aa7bf03fb2f4)
+
+
 For this project you will be creating a fresh repository. The link is in Pilot under Content - Projects - CI -> CD. This is the repo you will be using for Projects 4 & 5.
 
 The documentation bullet points are written linearly.  As long as the information can be found, I am okay with you organizing it nicely.
